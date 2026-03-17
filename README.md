@@ -7,4 +7,6 @@ Materials for small report about [Liger-Kernel](https://github.com/linkedin/Lige
 - All other code blocks are located in `report.ipynb` (which again should be run under the environment specified by `uv.lock`)
 - `train_llama.py` contains flexible (as flexibled as I succeeded to write) code for training Llama-3.1-8B for several iterations to profile and measure the performance of model under the changes from Liger-Kernel.
 
+Some introductionary slides from my presentation can be found [there](https://docs.google.com/presentation/d/1gl-TKhdUpFACFOxT6EF9ppM95-ro3GAtVvLrKVTCeJ0/edit?usp=sharing).
+
 Good luck!
