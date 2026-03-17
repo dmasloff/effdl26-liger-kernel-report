@@ -9,4 +9,12 @@ Materials for small report about [Liger-Kernel](https://github.com/linkedin/Lige
 
 Some introductionary slides from my presentation can be found [there](https://docs.google.com/presentation/d/1gl-TKhdUpFACFOxT6EF9ppM95-ro3GAtVvLrKVTCeJ0/edit?usp=sharing).
 
+### Furhter reading
+
+- [Official project repo](https://github.com/linkedin/Liger-Kernel)
+- [Official project docs](https://linkedin.github.io/Liger-Kernel)
+- [White paper](https://arxiv.org/abs/2410.10989)
+- [GPU Mode lecture about the project](https://youtu.be/gWble4FreV4?si=FEykSzgs224xFDTs)
+
 Good luck!
+
